@@ -1,4 +1,4 @@
-Li# DIO
+# DIO
 # Introdução ao React Native
 
 ![image](https://user-images.githubusercontent.com/103337638/175788515-66a5a0dc-0c45-410c-8710-05072f534232.png)
